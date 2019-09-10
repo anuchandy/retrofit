@@ -17,6 +17,7 @@
   <modules>
     <module>guava</module>
     <module>java8</module>
+    <module>reactor</module>
     <module>rxjava</module>
     <module>rxjava2</module>
     <module>scala</module>
